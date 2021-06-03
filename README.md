@@ -30,6 +30,12 @@ Once it is cloned, change to the root directory of the repository:
 cd vscode-example-R
 ```
 
+Install following R packages:
+
+```
+install.packages(c("languageserver", "lintr", "rex"))
+```
+
 Finally, run VS Code on the root directory (note the `.` after `code` command):
 
 ```
