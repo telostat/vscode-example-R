@@ -1,0 +1,24 @@
+---
+title: Example RMarkdown Document
+output: md_document
+---
+
+# Example RMarkdown Document
+
+This is an example RMarkdown document.
+
+> **NOTE:** You can run render this file into an `.md` file by issuing `R: Knit
+> Rmd` command on the command palette. Once rendered, you can open the
+> `document.md` file in preview mode.
+
+Let's print numbers:
+
+```{r}
+print(1:10)
+```
+
+Now, plot a histogram:
+
+```{r}
+hist(rnorm(1000))
+```
