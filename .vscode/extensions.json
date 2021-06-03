@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+        "editorconfig.editorconfig",
+        "ikuyadeu.r",
+        "ms-python.python",
+        "ms-vscode-remote.remote-containers",
+        "ms-vscode-remote.vscode-remote-extensionpack",
+        "ms-vsliveshare.vsliveshare-audio",
+        "ms-vsliveshare.vsliveshare",
+        "reditorsupport.r-lsp",
+        "timonwong.shellcheck",
+        //"tuttieee.emacs-mcx",
+    ]
+}
