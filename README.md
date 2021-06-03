@@ -1,7 +1,20 @@
-# R with Visual Studio Code
+# R on Visual Studio Code
 
-This repository includes instructions and examples to work on R using Visual
+This repository includes instructions and examples to work with R on Visual
 Studio Code (VS Code).
+
+## VS Code Installation
+
+Follow instructions on [Setting up Visual Studio
+Code](https://code.visualstudio.com/docs/setup/setup-overview).
+
+In particular, you can conveniently install VS Code on GNU/Linux using
+`snap` by issuing the following command (works fine if you are on
+Ubuntu):
+
+```
+sudo snap install --classic code
+```
 
 ## Quickstart
 
